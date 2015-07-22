@@ -1,5 +1,5 @@
 # CodeIgniter translations
-[![CodeIgniter version](https://img.shields.io/badge/ci-v0.2.3-yellow.svg)](https://github.com/bcit-ci/CodeIgniter)
+[![CodeIgniter version](https://img.shields.io/badge/ci-v2.2.3-yellow.svg)](https://github.com/bcit-ci/CodeIgniter)
 [![Transifex](https://img.shields.io/badge/translate-Transifex-blue.svg)](https://www.transifex.com/projects/p/ci_translations)
 
 Use translations for your CodeIgniter applications using [ISO 639-1 code name](http://www.loc.gov/standards/iso639-2/php/code_list.php).
