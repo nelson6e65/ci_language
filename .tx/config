@@ -1,0 +1,63 @@
+[main]
+host = https://www.transifex.com
+type = PHP_ALT_ARRAY
+
+[ci_translations.calendar_lang]
+source = language/en/calendar_lang.php
+file_filter = language/<language>/calendar_lang.php
+source_lang = en
+
+[ci_translations.date_lang]
+source = language/en/date_lang.php
+file_filter = language/<lang>/date_lang.php
+source_lang = en
+
+[ci_translations.db_lang]
+source = language/en/db_lang.php
+file_filter = language/<lang>/db_lang.php
+source_lang = en
+
+[ci_translations.email_lang]
+source = language/en/email_lang.php
+file_filter = language/<lang>/email_lang.php
+source_lang = en
+
+[ci_translations.form_validation_lang]
+source = language/en/form_validation_lang.php
+file_filter = language/<lang>/form_validation_lang.php
+source_lang = en
+
+[ci_translations.ftp_lang]
+source = language/en/ftp_lang.php
+file_filter = language/<lang>/ftp_lang.php
+source_lang = en
+
+[ci_translations.imglib_lang]
+source = language/en/imglib_lang.php
+file_filter = language/<lang>/imglib_lang.php
+source_lang = en
+
+[ci_translations.migration_lang]
+source = language/en/migration_lang.php
+file_filter = language/<lang>/migration_lang.php
+source_lang = en
+
+[ci_translations.number_lang]
+source = language/en/number_lang.php
+file_filter = language/<lang>/number_lang.php
+source_lang = en
+
+[ci_translations.profiler_lang]
+source = language/en/profiler_lang.php
+file_filter = language/<lang>/profiler_lang.php
+source_lang = en
+
+[ci_translations.unit_test_lang]
+source = language/en/unit_test_lang.php
+file_filter = language/<lang>/unit_test_lang.php
+source_lang = en
+
+[ci_translations.upload_lang]
+source = language/enupload_lang.php
+file_filter = language/<lang>/upload_lang.php
+source_lang = en
