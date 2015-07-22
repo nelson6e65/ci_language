@@ -4,7 +4,7 @@ type = PHP_ALT_ARRAY
 
 [ci_translations.calendar_lang]
 source = language/en/calendar_lang.php
-file_filter = language/<language>/calendar_lang.php
+file_filter = language/<lang>/calendar_lang.php
 source_lang = en
 
 [ci_translations.date_lang]
