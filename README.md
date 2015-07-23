@@ -1,8 +1,9 @@
 # CodeIgniter translations
+[![Transifex](https://img.shields.io/badge/powered-Transifex-blue.svg)](https://www.transifex.com/projects/p/ci_translations)
 [![English (Source lang)](https://img.shields.io/badge/lang-en-green.svg)](https://www.transifex.com/projects/p/ci_translations/language/en/)
 [![Spanish translation](https://img.shields.io/badge/lang-es-green.svg)](https://www.transifex.com/projects/p/ci_translations/language/es/)
 [![CodeIgniter version](https://img.shields.io/badge/ci-v2.2.3-yellow.svg)](https://github.com/bcit-ci/CodeIgniter)
-[![Transifex](https://img.shields.io/badge/translate-Transifex-blue.svg)](https://www.transifex.com/projects/p/ci_translations)
+
 
 
 ## Description
