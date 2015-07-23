@@ -1,30 +1,29 @@
 # CodeIgniter translations
+[![English (Source lang)](https://img.shields.io/badge/lang-en-green.svg)](https://www.transifex.com/projects/p/ci_translations/language/en/)
+[![Spanish translation](https://img.shields.io/badge/lang-es-green.svg)](https://www.transifex.com/projects/p/ci_translations/language/es/)
 [![CodeIgniter version](https://img.shields.io/badge/ci-v2.2.3-yellow.svg)](https://github.com/bcit-ci/CodeIgniter)
 [![Transifex](https://img.shields.io/badge/translate-Transifex-blue.svg)](https://www.transifex.com/projects/p/ci_translations)
 
-[![English (Source lang)](https://img.shields.io/badge/lang-en-green.svg)](https://www.transifex.com/projects/p/ci_translations/language/en/)
-[![Spanish translation](https://img.shields.io/badge/lang-es-green.svg)](https://www.transifex.com/projects/p/ci_translations/language/en/)
-
-Use translations for your CodeIgniter applications using [ISO 639-1 code name](http://www.loc.gov/standards/iso639-2/php/code_list.php).
 
 ## Description
-Language translations for CodeIgniter 2.2.x, using [Transifex](https://www.transifex.com/projects/p/ci_translations/) Platform.
+Language translations for CodeIgniter 2, powered by [Transifex](https://www.transifex.com/projects/p/ci_translations/) Platform.
 
-> Note: Empty translations for now.
 
 ## Requirements
 - CodeIgniter 2
+
 
 ## Install
 - Download the latest [release](https://github.com/nelson6e65/ci_language/releases).
 - Unzip that download.
 - Rename the resulting folder to `language`.
-- Then move this folder into your `application` directory (replace files in `application/language` as needed on update).
+- Then move this folder into your `application` directory (replace files in `application/language/` as needed on update).
+
 
 ## Usage
 You just need to set your language in `application/config/config.php`.
 
-Example: If you want to use Spanish language, you should set `$config['language']` to `es`.
+This translations uses [ISO 639-1 code namming standard](http://www.loc.gov/standards/iso639-2/php/code_list.php) for languages. So, for example, you must to use `'es'` instead of `'spanish'`:
 
 ```php
 <?php
