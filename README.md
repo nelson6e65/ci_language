@@ -1,4 +1,4 @@
-# CodeIgniter translations
+# CodeIgniter Framework translations
 [![CodeIgniter version](https://img.shields.io/badge/ci-v2.2.3-yellow.svg)](https://github.com/bcit-ci/CodeIgniter)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Transifex](https://img.shields.io/badge/powered-Transifex-blue.svg)](https://www.transifex.com/projects/p/ci_translations)
@@ -7,7 +7,7 @@
 
 
 ## Description
-Language translations for CodeIgniter 2, powered by [Transifex](https://www.transifex.com/projects/p/ci_translations/) Platform.
+Language translations for CodeIgniter Framework 2, powered by [Transifex](https://www.transifex.com/projects/p/ci_translations/) Platform.
 
 
 ## Requirements
