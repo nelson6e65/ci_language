@@ -2,6 +2,9 @@
 [![CodeIgniter version](https://img.shields.io/badge/ci-v2.2.3-yellow.svg)](https://github.com/bcit-ci/CodeIgniter)
 [![Transifex](https://img.shields.io/badge/translate-Transifex-blue.svg)](https://www.transifex.com/projects/p/ci_translations)
 
+[![English (Source lang)](https://img.shields.io/badge/lang-en-green.svg)](https://www.transifex.com/projects/p/ci_translations/language/en/)
+[![Spanish translation](https://img.shields.io/badge/lang-es-green.svg)](https://www.transifex.com/projects/p/ci_translations/language/en/)
+
 Use translations for your CodeIgniter applications using [ISO 639-1 code name](http://www.loc.gov/standards/iso639-2/php/code_list.php).
 
 ## Description
@@ -46,14 +49,6 @@ $config['language']	= 'es';
 
 
 ## Contribute
-You can help with translations by requesting a new language (or ask for joining to) at https://www.transifex.com/projects/p/ci_translations/
+You can help with translations by *requesting* a new language (or ask for joining to) at https://www.transifex.com/projects/p/ci_translations/
 
 > Note: You will need a Transifex account (free).
-
-
-### Available languages
-
-- [x] **en** - English (*English*)
-- [x] **es** - Spanish (*Español*)
-- [ ] [*Other*](https://www.transifex.com/projects/p/ci_translations/)
-
