@@ -3,7 +3,8 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Transifex](https://img.shields.io/badge/powered-Transifex-blue.svg)](https://www.transifex.com/projects/p/ci_translations)
 [![English (Source lang)](https://img.shields.io/badge/en-100%-green.svg)](https://www.transifex.com/projects/p/ci_translations/language/en/)
-[![Spanish translation](https://img.shields.io/badge/es-51%-green.svg)](https://www.transifex.com/projects/p/ci_translations/language/es/)
+[![Spanish (es) translation](https://img.shields.io/badge/es-51%-green.svg)](https://www.transifex.com/projects/p/ci_translations/language/es/)
+[![Portuguese (Brazil) (pt_BR) translation](https://img.shields.io/badge/pt_BR-0%-red.svg)](https://www.transifex.com/projects/p/ci_translations/language/pt_BR/)
 
 
 ## Description
