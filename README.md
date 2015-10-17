@@ -4,6 +4,7 @@
 [![Transifex](https://img.shields.io/badge/powered-Transifex-blue.svg)](https://www.transifex.com/projects/p/ci_translations)
 [![English (Source lang)](https://img.shields.io/badge/en-100%-green.svg)](https://www.transifex.com/projects/p/ci_translations/language/en/)
 [![Spanish (es) translation](https://img.shields.io/badge/es-51%-green.svg)](https://www.transifex.com/projects/p/ci_translations/language/es/)
+[![Italian (it) translation](https://img.shields.io/badge/it-0%-red.svg)](https://www.transifex.com/projects/p/ci_translations/language/it/)
 [![Portuguese (Brazil) (pt_BR) translation](https://img.shields.io/badge/pt_BR-0%-red.svg)](https://www.transifex.com/projects/p/ci_translations/language/pt_BR/)
 
 
