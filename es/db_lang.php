@@ -2,11 +2,11 @@
 
 $lang['db_invalid_connection_str'] = 'Unable to determine the database settings based on the connection string you submitted.';
 $lang['db_unable_to_connect']      = 'Unable to connect to your database server using the provided settings.';
-$lang['db_unable_to_select']       = 'Unable to select the specified database: %s';
-$lang['db_unable_to_create']       = 'Unable to create the specified database: %s';
-$lang['db_invalid_query']          = 'The query you submitted is not valid.';
-$lang['db_must_set_table']         = 'You must set the database table to be used with your query.';
-$lang['db_must_use_set']           = 'You must use the "set" method to update an entry.';
+$lang['db_unable_to_select']       = 'Imposible seleccionar la base de datos seleccionada: %s';
+$lang['db_unable_to_create']       = 'Imposible crear la base de datos especificada: %s';
+$lang['db_invalid_query']          = 'La consulta que has enviado no es válida.';
+$lang['db_must_set_table']         = 'Debes establecer la tabla de la base de datos a ser usada en tu consulta.';
+$lang['db_must_use_set']           = 'Debes usar el método "set" para actualizar una entrada.';
 $lang['db_must_use_index']         = 'You must specify an index to match on for batch updates.';
 $lang['db_batch_missing_index']    = 'One or more rows submitted for batch updating is missing the specified index.';
 $lang['db_must_use_where']         = 'Updates are not allowed unless they contain a "where" clause.';
